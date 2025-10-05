@@ -1,0 +1,2 @@
+import React,{useEffect,useState}from'react'
+export default function Webinars(){const [items,setItems]=useState([]);useEffect(()=>{fetch('/public/data/content.json').then(r=>r.json()).then(d=>setItems(d['webinars']))},[]);return(<div><h2>Webinars</h2><div className='grid'>{items.map(it=>(<div key={it.id} className='card'><img src={it.img} style={{width:'100%',borderRadius:12}}/><h3>{it.title}</h3><p className='muted'>{it.desc}</p><a className='btn' href='/assets/webinar.ics' download>+ Add to calendar</a></div>))}</div></div>)}

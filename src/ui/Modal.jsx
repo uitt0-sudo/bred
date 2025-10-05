@@ -1,0 +1,2 @@
+import React from'react'
+export default function Modal({open,title,children,onClose,width='sheet'}){if(!open)return null;return(<div className='overlay show'><div className={width}><div style={{display:'flex',justifyContent:'space-between',alignItems:'center',gap:10}}><h3 style={{margin:0}}>{title}</h3><button className='btn ghost' onClick={onClose}>Close</button></div><div style={{marginTop:10}}>{children}</div></div></div>)}

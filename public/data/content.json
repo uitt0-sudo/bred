@@ -1,0 +1,499 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-coins-1",
+      "title": "Counting Coins 1",
+      "category": "Math",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Learn values and add coins. Level 1.",
+      "pages": [
+        {
+          "h": "What is a coin?",
+          "p": "Coins are money. Each has a value."
+        },
+        {
+          "h": "Add coins",
+          "p": "Combine values to reach a target."
+        },
+        {
+          "h": "Practice",
+          "p": "Drag coins to the tray to match 25."
+        }
+      ]
+    },
+    {
+      "id": "lesson-coins-2",
+      "title": "Counting Coins 2",
+      "category": "Math",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Learn values and add coins. Level 2.",
+      "pages": [
+        {
+          "h": "What is a coin?",
+          "p": "Coins are money. Each has a value."
+        },
+        {
+          "h": "Add coins",
+          "p": "Combine values to reach a target."
+        },
+        {
+          "h": "Practice",
+          "p": "Drag coins to the tray to match 25."
+        }
+      ]
+    },
+    {
+      "id": "lesson-coins-3",
+      "title": "Counting Coins 3",
+      "category": "Math",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Learn values and add coins. Level 3.",
+      "pages": [
+        {
+          "h": "What is a coin?",
+          "p": "Coins are money. Each has a value."
+        },
+        {
+          "h": "Add coins",
+          "p": "Combine values to reach a target."
+        },
+        {
+          "h": "Practice",
+          "p": "Drag coins to the tray to match 25."
+        }
+      ]
+    },
+    {
+      "id": "lesson-coins-4",
+      "title": "Counting Coins 4",
+      "category": "Math",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Learn values and add coins. Level 4.",
+      "pages": [
+        {
+          "h": "What is a coin?",
+          "p": "Coins are money. Each has a value."
+        },
+        {
+          "h": "Add coins",
+          "p": "Combine values to reach a target."
+        },
+        {
+          "h": "Practice",
+          "p": "Drag coins to the tray to match 25."
+        }
+      ]
+    },
+    {
+      "id": "lesson-coins-5",
+      "title": "Counting Coins 5",
+      "category": "Math",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Learn values and add coins. Level 5.",
+      "pages": [
+        {
+          "h": "What is a coin?",
+          "p": "Coins are money. Each has a value."
+        },
+        {
+          "h": "Add coins",
+          "p": "Combine values to reach a target."
+        },
+        {
+          "h": "Practice",
+          "p": "Drag coins to the tray to match 25."
+        }
+      ]
+    },
+    {
+      "id": "lesson-coins-6",
+      "title": "Counting Coins 6",
+      "category": "Math",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Learn values and add coins. Level 6.",
+      "pages": [
+        {
+          "h": "What is a coin?",
+          "p": "Coins are money. Each has a value."
+        },
+        {
+          "h": "Add coins",
+          "p": "Combine values to reach a target."
+        },
+        {
+          "h": "Practice",
+          "p": "Drag coins to the tray to match 25."
+        }
+      ]
+    },
+    {
+      "id": "read-sun-1",
+      "title": "Read Aloud: Sunny Day 1",
+      "category": "Reading",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Short read\u2011aloud with TTS.",
+      "story": [
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Gold Bear wakes up smiling."
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Breakfast, then adventure in the park!"
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Counting shiny coins along the path."
+        }
+      ]
+    },
+    {
+      "id": "read-sun-2",
+      "title": "Read Aloud: Sunny Day 2",
+      "category": "Reading",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Short read\u2011aloud with TTS.",
+      "story": [
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Gold Bear wakes up smiling."
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Breakfast, then adventure in the park!"
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Counting shiny coins along the path."
+        }
+      ]
+    },
+    {
+      "id": "read-sun-3",
+      "title": "Read Aloud: Sunny Day 3",
+      "category": "Reading",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Short read\u2011aloud with TTS.",
+      "story": [
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Gold Bear wakes up smiling."
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Breakfast, then adventure in the park!"
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Counting shiny coins along the path."
+        }
+      ]
+    },
+    {
+      "id": "read-sun-4",
+      "title": "Read Aloud: Sunny Day 4",
+      "category": "Reading",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Short read\u2011aloud with TTS.",
+      "story": [
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Gold Bear wakes up smiling."
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Breakfast, then adventure in the park!"
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Counting shiny coins along the path."
+        }
+      ]
+    },
+    {
+      "id": "read-sun-5",
+      "title": "Read Aloud: Sunny Day 5",
+      "category": "Reading",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Short read\u2011aloud with TTS.",
+      "story": [
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Gold Bear wakes up smiling."
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Breakfast, then adventure in the park!"
+        },
+        {
+          "img": "/assets/img/logo-bear.png",
+          "text": "Counting shiny coins along the path."
+        }
+      ]
+    },
+    {
+      "id": "creative-1",
+      "title": "Creative Shapes 1",
+      "category": "Creativity",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Arrange shapes to make animals and rockets."
+    },
+    {
+      "id": "creative-2",
+      "title": "Creative Shapes 2",
+      "category": "Creativity",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Arrange shapes to make animals and rockets."
+    },
+    {
+      "id": "creative-3",
+      "title": "Creative Shapes 3",
+      "category": "Creativity",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Arrange shapes to make animals and rockets."
+    },
+    {
+      "id": "creative-4",
+      "title": "Creative Shapes 4",
+      "category": "Creativity",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Arrange shapes to make animals and rockets."
+    },
+    {
+      "id": "creative-5",
+      "title": "Creative Shapes 5",
+      "category": "Creativity",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Arrange shapes to make animals and rockets."
+    }
+  ],
+  "books": [
+    {
+      "id": "gb-big-day",
+      "title": "Gold Bear\u2019s Big Day",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Story with TTS",
+      "story": [
+        {
+          "text": "Gold Bear wakes up excited \u2014 today is star collecting day!"
+        },
+        {
+          "text": "He helps friends and earns shiny stars."
+        },
+        {
+          "text": "At sunset, he shares the stars and smiles."
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": "Picture Book 2",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-3",
+      "title": "Picture Book 3",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-4",
+      "title": "Picture Book 4",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-5",
+      "title": "Picture Book 5",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-6",
+      "title": "Picture Book 6",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-7",
+      "title": "Picture Book 7",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-8",
+      "title": "Picture Book 8",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-9",
+      "title": "Picture Book 9",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-10",
+      "title": "Picture Book 10",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    },
+    {
+      "id": "book-11",
+      "title": "Picture Book 11",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Illustrated story."
+    }
+  ],
+  "games": [
+    {
+      "id": "memory",
+      "title": "Memory Match",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Flip cards to find pairs."
+    },
+    {
+      "id": "coins",
+      "title": "Coin Catcher",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Catch coins, avoid bombs."
+    },
+    {
+      "id": "typing",
+      "title": "Typing Rocket",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Type words to launch."
+    },
+    {
+      "id": "dragcoins",
+      "title": "Drag\u2011n\u2011Drop Coins",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Match target value by dragging coins."
+    },
+    {
+      "id": "numberline",
+      "title": "Number Line Jump",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Click the right spot on the line."
+    },
+    {
+      "id": "wordbuilder",
+      "title": "Word Builder",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Make words from letters."
+    },
+    {
+      "id": "mini-1",
+      "title": "Mini Game 1",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Quick challenge."
+    },
+    {
+      "id": "mini-2",
+      "title": "Mini Game 2",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Quick challenge."
+    },
+    {
+      "id": "mini-3",
+      "title": "Mini Game 3",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Quick challenge."
+    },
+    {
+      "id": "mini-4",
+      "title": "Mini Game 4",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Quick challenge."
+    },
+    {
+      "id": "mini-5",
+      "title": "Mini Game 5",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Quick challenge."
+    }
+  ],
+  "webinars": [
+    {
+      "id": "w1",
+      "title": "Parents Intro",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Live tour for parents."
+    },
+    {
+      "id": "w2",
+      "title": "Teacher Workshop",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Classroom tips."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q-math-1",
+      "title": "Math Basics",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Add coins",
+      "questions": [
+        {
+          "q": "How much is a dime?",
+          "a": [
+            "1\u00a2",
+            "5\u00a2",
+            "10\u00a2",
+            "25\u00a2"
+          ],
+          "c": 2
+        },
+        {
+          "q": "Nickel + Penny = ?",
+          "a": [
+            "6\u00a2",
+            "10\u00a2",
+            "15\u00a2",
+            "8\u00a2"
+          ],
+          "c": 0
+        },
+        {
+          "q": "Quarter is",
+          "a": [
+            "5\u00a2",
+            "10\u00a2",
+            "25\u00a2",
+            "50\u00a2"
+          ],
+          "c": 2
+        }
+      ]
+    },
+    {
+      "id": "q-read-1",
+      "title": "Reading Sound",
+      "img": "/assets/img/logo-bear.png",
+      "desc": "Sight words",
+      "questions": [
+        {
+          "q": "Which is a vowel?",
+          "a": [
+            "b",
+            "e",
+            "t",
+            "s"
+          ],
+          "c": 1
+        },
+        {
+          "q": "'cat' rhyme with",
+          "a": [
+            "map",
+            "hat",
+            "cup",
+            "cap"
+          ],
+          "c": 1
+        }
+      ]
+    }
+  ]
+}
